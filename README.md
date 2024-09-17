@@ -2,7 +2,8 @@ I selected a random 12 Fantastic individuals to form a team and explore the data
 
 
 # Course Model for 6-Month Data Engineering Mentorship Program
-## Duration: May 12, 2024 - November 12, 2024
+## Duration: May 12, 2024 - October 20, 2024
+
 
 
 ### Month 1: Introduction to Data Engineering
